@@ -1,4 +1,4 @@
-Counting Github Profile Visits!
+profile visits
 
 ![](https://count.getloli.com/get/@alexraskin)
 
