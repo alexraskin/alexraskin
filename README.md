@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there! 👋 I'm Alex
 
-<!--
-**alexraskin/alexraskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐱 Cat enthusiast | 🛠️ DevOps Engineer | 🐹 Go fan
 
-Here are some ideas to get you started:
+I love learning about new tech and tinkering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎵 **Last.FM Now Playing**:
+
+[![Last.FM](https://img.shields.io/endpoint?color=blueviolet&url=https://playing.alexraskin.com/twizycat?format=shields.io)](https://github.com/alexraskin/lastfm-now-playing)  
+
+🎬 **Trakt Now Playing**:
+
+[![trakt.tv](https://img.shields.io/endpoint?url=https://trakt.alexraskin.com/alexraskin?format=shields.io)](https://trakt.alexraskin.com/alexraskin)
