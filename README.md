@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Alex a self-taught programmer from America I enjoy [Golang](https://go.dev/) and creating random stuff with it. I like self hosting everything I can in my home lab. Checkout my website under https://alexraskin.com
+I'm Alex a self-taught programmer from America I enjoy [Golang](https://go.dev/) and creating random stuff with it. I like self hosting everything I can in my home lab. Checkout my website https://alexraskin.com
 
 ## Technologies I use
 
