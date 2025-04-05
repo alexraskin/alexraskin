@@ -2,7 +2,7 @@
 
 I'm Alex — a self-taught programmer from America. I'm a DevOps engineer by day and a developer in my free time. I enjoy working with [Golang](https://go.dev/) and spinning up random projects, usually involving my home lab where I like to self-host. Check out my site: https://alexraskin.com and check out my cat, [cosmo](https://www.cosmothecat.net/). 
 
-## Technologies I use
+## Technologies I enjoy working with
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" />
