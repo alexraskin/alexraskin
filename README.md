@@ -29,5 +29,5 @@ I'm Alex, a self-taught programmer from America. I'm a DevOps engineer by day an
 * [trakt-tv-now-playing](https://github.com/alexraskin/trakt-tv-now-playing) - [Trakt TV](https://trakt.tv/) Now Playing API
 * [goputflix](https://github.com/alexraskin/goputflix) - [Put IO](https://put.io) CLI tool
 * [alexraskin.com](https://github.com/alexraskin/alexraskin.com) - My website
-* [ShareX Worker](https://github.com/alexraskin/ShareXWorker) - Serverless [ShareX](https://getsharex.com/) uploader
+* [goShareX](https://github.com/alexraskin/goShareX) - Serverless [ShareX](https://getsharex.com/) uploader
 * [LhBotGo](https://github.com/alexraskin/LhBotGo) - Golang rewrite of LhBot
