@@ -26,7 +26,7 @@ I'm Alex, a self-taught programmer from America. I'm a DevOps engineer by day an
 ## Projects
 
 * [swarmctl](https://github.com/alexraskin/swarmctl) - Update a service running in Docker Swarm
-* [trakt-tv-now-playing](https://github.com/alexraskin/trakt-tv-now-playing) - [Trakt TV](https://trakt.tv/) Now Playing API
+* [lastfm-now-playing](https://github.com/alexraskin/lastfm-now-playing) - [Last.fm](https://last.fm/)
 * [goputflix](https://github.com/alexraskin/goputflix) - [Put IO](https://put.io) CLI tool
 * [alexraskin.com](https://github.com/alexraskin/alexraskin.com) - My website
 * [goShareX](https://github.com/alexraskin/goShareX) - Serverless [ShareX](https://getsharex.com/) uploader
