@@ -2,9 +2,9 @@
 
 I'm Alex, a self-taught programmer from America. I'm a DevOps engineer by day and a developer in my free time. I enjoy working with [Golang](https://go.dev/) and spinning up random projects, usually involving my home lab where I like to self-host, here is my [infrastructure setup](https://github.com/alexraskin/infrastructure). Check out my site: [alexraskin.com](https://alexraskin.com) and my cat, [cosmo](https://www.cosmothecat.net/).
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md) 
-
 [![StandWithIran](https://i.gyazo.com/2c57eb0078a000825f4de8d0749daf4f.png)](https://standwithiran.org)
+
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md) 
 
 ## Technologies I enjoy
 
