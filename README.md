@@ -4,7 +4,7 @@ I'm Alex, a self-taught programmer from America. I'm a DevOps engineer by day an
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md) 
 
-[Stand with Iran](https://standwithiran.org/) ☫
+[![StandWithIran](https://i.gyazo.com/2c57eb0078a000825f4de8d0749daf4f.png)](https://standwithiran.org)
 
 ## Technologies I enjoy
 
