@@ -1,6 +1,6 @@
 # Hi there 👋
 
-DevOps Engineer. Infrastructure, Uptime, cats.
+DevOps Engineer. Infrastructure, Cats and Franzbrötchen.
 
 [💻 dotfiles](https://github.com/alexraskin/.dotfiles)
 
