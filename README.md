@@ -2,6 +2,6 @@
 
 DevOps Engineer. Infrastructure, Cats and Franzbrötchen.
 
-[💻 dotfiles](https://github.com/alexraskin/.dotfiles)
+[💻 nix config](https://github.com/alexraskin/nix-config)
 
 [🖥 homelab](https://github.com/alexraskin/infrastructure)
